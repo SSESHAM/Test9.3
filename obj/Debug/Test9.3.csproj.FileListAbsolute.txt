@@ -50,11 +50,6 @@ C:\Inetpub\Azure Git\Test9.3\bin\roslyn\vbc.rsp
 C:\Inetpub\Azure Git\Test9.3\bin\roslyn\VBCSCompiler.exe
 C:\Inetpub\Azure Git\Test9.3\bin\roslyn\VBCSCompiler.exe.config
 C:\Inetpub\Azure Git\Test9.3\bin\Microsoft.Web.Infrastructure.dll
-C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Razor.dll
-C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Webpages.Deployment.dll
-C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Razor.xml
-C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Webpages.Deployment.xml
-C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csprojAssemblyReference.cache
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csproj.CoreCompileInputs.cache
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csproj.CopyComplete
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.dll
