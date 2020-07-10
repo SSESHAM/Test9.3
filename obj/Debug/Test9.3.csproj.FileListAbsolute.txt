@@ -54,3 +54,5 @@ C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csproj.CoreCompileInputs.cache
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csproj.CopyComplete
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.dll
 C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.pdb
+C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Mvc.xml
+C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csprojAssemblyReference.cache
