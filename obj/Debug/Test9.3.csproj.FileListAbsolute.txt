@@ -295,3 +295,4 @@ C:\Inetpub\Azure Git\Test9.3\bin\System.Web.Razor.xml
 C:\Inetpub\Azure Git\Test9.3\bin\System.Web.WebPages.xml
 C:\Inetpub\Azure Git\Test9.3\bin\System.Web.WebPages.Deployment.xml
 C:\Inetpub\Azure Git\Test9.3\bin\System.Web.WebPages.Razor.xml
+C:\Inetpub\Azure Git\Test9.3\obj\Debug\Test9.3.csprojAssemblyReference.cache
